@@ -1,4 +1,3 @@
-# Chatboat
 # Customer Support Bot 🤖
 
 A simple AI-powered chatbot that answers customer queries based on a document (FAQ or manual).
